@@ -1,4 +1,4 @@
-# Regex Tutorial
+# Regex protocol tutorial
 In this tutorial, you will be able to get a breakdown of what Regex does, and how it fits in to computer science, and coding. In the example provided, you will see what each character means, and how it fits in to your code. 
 
 ## Summary
